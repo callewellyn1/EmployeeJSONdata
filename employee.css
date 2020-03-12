@@ -1,0 +1,36 @@
+.employee {
+    border: 2px solid;
+    box-shadow: 5px 10px 8px #888888;
+    border-radius:25px;
+    overflow: auto
+}
+.eName {
+    float: left; 
+    padding: 5;
+    padding-right: 65;
+    padding-top: 10;
+    font-weight: bolder;
+}
+.photo {
+    float: left;
+    clear: both;
+    height: 150;
+    width: 150;
+    padding: 5;
+    padding-right: 20;
+    padding-bottom: 20
+    
+}
+.detail {
+    padding-top: 10;
+}
+
+.title {
+    font-weight: bolder;
+}
+.department {
+    display: block
+}
+.email {
+    padding-left: 5;
+}
