@@ -22,7 +22,4 @@ var displayinfo = function(employees)
       .text(function)
     
     
-    
-    
-    
 }
